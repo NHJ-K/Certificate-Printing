@@ -1,0 +1,94 @@
+[
+{"type":"header","version":"5.0.3","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"aands"},
+{"type":"table","name":"arts_event","database":"aands","data":
+[
+{"event":"9km Sprint"},
+{"event":"long jump"},
+{"event":"null"},
+{"event":"Short Put"}
+]
+}
+,{"type":"table","name":"arts_printning","database":"aands","data":
+[
+
+]
+}
+,{"type":"table","name":"arts_student","database":"aands","data":
+[
+{"Chestno":"1004","rehno":"19130388","Name":"Krishnadas","deparment":"Computer engg","event1":"short put","event2":"500meter sprint","event3":"null"},
+{"Chestno":"1013","rehno":"191302659","Name":"NHJ","deparment":"Computer","event1":"500meter sprint","event2":"short put","event3":"null"},
+{"Chestno":"1031","rehno":"1549742","Name":"Krishnadas","deparment":"dsads","event1":"long jump","event2":"null","event3":"null"},
+{"Chestno":"1045","rehno":"19130399","Name":"das","deparment":"wwww","event1":"500meter sprint","event2":"null","event3":"null"},
+{"Chestno":"1046","rehno":"19153277","Name":"aaaaa","deparment":"dsdsd","event1":"short put","event2":"500meter sprint","event3":"short put"},
+{"Chestno":"1047","rehno":"19130845","Name":"sai","deparment":"ffsdsad","event1":"500meter sprint","event2":"null","event3":"null"},
+{"Chestno":"1048","rehno":"1478953","Name":"jk","deparment":"ddasd","event1":"long jump","event2":"null","event3":"null"},
+{"Chestno":"1049","rehno":"1789546","Name":"8989","deparment":"5356","event1":"null","event2":"null","event3":"null"},
+{"Chestno":"1050","rehno":"4542121","Name":"fgfgd","deparment":"erere","event1":"500meter sprint","event2":"null","event3":"null"}
+]
+}
+,{"type":"table","name":"arts_winners","database":"aands","data":
+[
+{"Chestno":"1004","Name":"Krishnadas","Department":"Computer engg","Event":"short put","Rank":"1"},
+{"Chestno":"1013","Name":"NHJ","Department":"Computer","Event":"short put","Rank":"2"},
+{"Chestno":"1046","Name":"aaaaa","Department":"dsdsd","Event":"short put","Rank":"3"},
+{"Chestno":"1004","Name":"Krishnadas","Department":"Computer engg","Event":"500meter sprint","Rank":"1"},
+{"Chestno":"1013","Name":"NHJ","Department":"Computer","Event":"500meter sprint","Rank":"2"},
+{"Chestno":"1045","Name":"das","Department":"wwww","Event":"500meter sprint","Rank":"3"},
+{"Chestno":"1013","Name":" NHJ","Department":" Computer","Event":" short put","Rank":"2"},
+{"Chestno":"1004","Name":" Krishnadas","Department":" Computer engg","Event":" 500meter sprint","Rank":"1"},
+{"Chestno":"1013","Name":" NHJ","Department":" Computer","Event":" short put","Rank":"2"},
+{"Chestno":"1013","Name":" NHJ","Department":" Computer","Event":" short put","Rank":"2"},
+{"Chestno":"1004","Name":" Krishnadas","Department":" Computer engg","Event":" 500meter sprint","Rank":"1"},
+{"Chestno":"1013","Name":"  NHJ","Department":"  Computer","Event":"  short put","Rank":"2"}
+]
+}
+,{"type":"table","name":"das","database":"aands","data":
+[
+{"name":"kichu","id":"15","mark":"95"},
+{"name":"nhj","id":"16","mark":"75"},
+{"name":"jk","id":"10","mark":"99"},
+{"name":"sai","id":"19","mark":"60"}
+]
+}
+,{"type":"table","name":"sport_event","database":"aands","data":
+[
+{"event":"9km Sprint"},
+{"event":"long jump"},
+{"event":"null"},
+{"event":"Short Put"}
+]
+}
+,{"type":"table","name":"sport_printing","database":"aands","data":
+[
+
+]
+}
+,{"type":"table","name":"sport_student","database":"aands","data":
+[
+{"Chestno":"1004","rehno":"19130388","Name":"Krishnadas","deparment":"Computer engg","event1":"short put","event2":"500meter sprint","event3":"null"},
+{"Chestno":"1013","rehno":"191302659","Name":"NHJ","deparment":"Computer","event1":"500meter sprint","event2":"short put","event3":"null"},
+{"Chestno":"1031","rehno":"1549742","Name":"Krishnadas","deparment":"dsads","event1":"long jump","event2":"null","event3":"null"},
+{"Chestno":"1045","rehno":"19130399","Name":"das","deparment":"wwww","event1":"500meter sprint","event2":"null","event3":"null"},
+{"Chestno":"1046","rehno":"19153277","Name":"aaaaa","deparment":"dsdsd","event1":"short put","event2":"500meter sprint","event3":"short put"},
+{"Chestno":"1047","rehno":"19130845","Name":"sai","deparment":"ffsdsad","event1":"500meter sprint","event2":"null","event3":"null"},
+{"Chestno":"1048","rehno":"1478953","Name":"jk","deparment":"ddasd","event1":"long jump","event2":"null","event3":"null"},
+{"Chestno":"1049","rehno":"1789546","Name":"8989","deparment":"5356","event1":"null","event2":"null","event3":"null"},
+{"Chestno":"1050","rehno":"4542121","Name":"fgfgd","deparment":"erere","event1":"500meter sprint","event2":"null","event3":"null"}
+]
+}
+,{"type":"table","name":"sport_winner","database":"aands","data":
+[
+{"Chestno":"1004","Name":"Krishnadas","Department":"Computer engg","Event":"short put","Rank":"1"},
+{"Chestno":"1046","Name":"aaaaa","Department":"dsdsd","Event":"short put","Rank":"3"},
+{"Chestno":"1004","Name":"Krishnadas","Department":"Computer engg","Event":"500meter sprint","Rank":"1"},
+{"Chestno":"1045","Name":"das","Department":"wwww","Event":"500meter sprint","Rank":"3"},
+{"Chestno":"1013","Name":" NHJ","Department":" Computer","Event":" short put","Rank":"2"},
+{"Chestno":"1004","Name":" Krishnadas","Department":" Computer engg","Event":" 500meter sprint","Rank":"1"},
+{"Chestno":"1013","Name":" NHJ","Department":" Computer","Event":" short put","Rank":"2"},
+{"Chestno":"1013","Name":" NHJ","Department":" Computer","Event":" short put","Rank":"2"},
+{"Chestno":"1004","Name":" Krishnadas","Department":" Computer engg","Event":" 500meter sprint","Rank":"1"},
+{"Chestno":"1013","Name":"  NHJ","Department":"  Computer","Event":"  short put","Rank":"2"}
+]
+}
+]
